@@ -1,2 +1,1 @@
-# .github
-Things of Fallen Organization Config
+# Things of Fallen Organization Config
